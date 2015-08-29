@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/Constants.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/DoodleJumpActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/LogicManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/OBjectsManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/android/AbstractAndroid.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/android/Android.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/bars/NormalBar.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/views/FailView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/gal/interview/views/GameView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/doodlel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/doodler.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/p_green.png" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
